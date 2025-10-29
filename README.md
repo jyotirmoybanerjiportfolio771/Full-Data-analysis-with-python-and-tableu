@@ -25,8 +25,7 @@ utilisation
 gender/race entries.
 2. Feature Engineering:
 o Created numeric readmitted_flag (1 = readmitted, 0 = no readmission)
-o Created readmit_label categorical column (Readmit <30d, Readmit
->30d, No Readmit)
+o Created readmit_label categorical column (Readmit <30d, Readmit>30d, No Readmit)
 o Created insulin_flag numeric column (1 = patient used insulin therapy,
 0 = no insulin)
 3. Exploratory Data Analysis (EDA):
